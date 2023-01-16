@@ -1,0 +1,18 @@
+.btn {
+    background-color: #fff;
+    border: #fff;
+    cursor: pointer
+}
+
+body {
+    background-color:aqua;
+    color:black;
+}
+ body.dark {
+    background-color: black;
+    color:#fff
+ }
+ .btn.dark {
+    background-color: rgb(0, 0, 0);
+    color:black;
+ } 
